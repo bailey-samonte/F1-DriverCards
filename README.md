@@ -1,4 +1,4 @@
-# F1 Driver Cards Project
+# F1 Driver Cards
 A React web application that displays Formula 1 driver cards with interactive features such as filtering, sorting, card flipping, and favoriting. This project was created using my interest in Formula 1 to strengthen my understanding of React fundamentals, component-based architecture, and state management.
 
 ## Features
